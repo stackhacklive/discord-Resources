@@ -1,14 +1,14 @@
 <div align="center">
 <img src="https://yt3.ggpht.com/ytc/AKedOLSwOKwPBRZtDPbsg8Xal_Ww3IiqG3Q_WJiLhHM=s176-c-k-c0x00ffffff-no-rj-mo" width="128px" style="max-width:100%;">
-<h1>Resources - Team Ujjwal</h1>
+<h1>Resources - Team Stackhack</h1>
 </div>
 
-<h3>Ujjwal Chaurasia</h3>
+<h3>Bhuvnesh</h3>
 
 - Business Email: [Click Here](mailto:technogamerzofficial@gmail.com)!  
 
 - Youtube: 
-    - [Techno Gamerz](https://www.youtube.com/c/TechnoGamerzOfficial)
+    - [Stackhack Gaming](https://www.youtueb.con/c/StackhackGaming)
 
     - [Ujjwal Gamer](https://www.youtube.com/c/UjjwalGamer)
 
