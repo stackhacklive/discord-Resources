@@ -10,17 +10,17 @@
 
     - [Stackhacklive](https://www.youtube.com/c/UjjwalGamer)
 
-- Twitter: [@UjjwalGamer](https://twitter.com/UjjwalGamer) 
+- Twitter: [@Stackhack](https://twitter.com/UjjwalGamer) 
 
 - Instagram: 
-    - [@ujjwalgamer](https://www.instagram.com/ujjwalgamer)
+    - [@Stackhack_Gaming](https://www.instagram.com/ujjwalgamer)
 
-    - [@techno_gamerz](https://www.instagram.com/techno_gamerz/) 
+    - [@Stackhacklive](https://www.instagram.com/techno_gamerz/) 
 
 - Facebook:
-    - [Techno Gamerz](https://www.facebook.com/Technogamerz) 
+    - [Stackhack Gaming](https://www.facebook.com/Technogamerz) 
 
-    - [Ujjwal Gamer](https://www.facebook.com/ujjwalgamer)
+    - [Stackhacklive](https://www.facebook.com/ujjwalgamer)
 
 - Website: [Click Here](https://technogamerz.in)!
 
