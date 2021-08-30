@@ -3,14 +3,12 @@
 <h1>Resources - Team Stackhack</h1>
 </div>
 
-<h3>Bhuvnesh</h3>
-
-- Business Email: [Click Here](mailto:technogamerzofficial@gmail.com)!  
+<h3>Bhuvnesh</h3>  
 
 - Youtube: 
     - [Stackhack Gaming](https://www.youtueb.con/c/StackhackGaming)
 
-    - [Ujjwal Gamer](https://www.youtube.com/c/UjjwalGamer)
+    - [Stackhacklive](https://www.youtube.com/c/UjjwalGamer)
 
 - Twitter: [@UjjwalGamer](https://twitter.com/UjjwalGamer) 
 
