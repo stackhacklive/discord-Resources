@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/p9kh4Pc.png" width="128px" style="max-width:100%;">
+<img src="https://yt3.ggpht.com/ytc/AKedOLSwOKwPBRZtDPbsg8Xal_Ww3IiqG3Q_WJiLhHM=s176-c-k-c0x00ffffff-no-rj-mo" width="128px" style="max-width:100%;">
 <h1>Resources - Team Ujjwal</h1>
 </div>
 
