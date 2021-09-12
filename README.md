@@ -26,7 +26,7 @@
 
 - Official Discord: [Join Now](https://discord.gg/ujjwalgamer)!
 
-<h3>TG Network</h3>
+<h3>SH Network</h3>
 
 - Contact Us: [Click Here](mailto:support@tgnetwork.in)! 
 
